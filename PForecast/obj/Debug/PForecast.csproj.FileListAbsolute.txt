@@ -1,0 +1,57 @@
+C:\Documents and Settings\marsel\Мои документы\Visual Studio 2008\Projects\PForecast\PForecast\bin\Debug\PForecast.exe
+C:\Documents and Settings\marsel\Мои документы\Visual Studio 2008\Projects\PForecast\PForecast\bin\Debug\PForecast.pdb
+C:\Documents and Settings\marsel\Мои документы\Visual Studio 2008\Projects\PForecast\PForecast\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\marsel\Мои документы\Visual Studio 2008\Projects\PForecast\PForecast\obj\Debug\PForecast.Properties.Resources.resources
+C:\Documents and Settings\marsel\Мои документы\Visual Studio 2008\Projects\PForecast\PForecast\obj\Debug\PForecast.csproj.GenerateResource.Cache
+C:\Documents and Settings\marsel\Мои документы\Visual Studio 2008\Projects\PForecast\PForecast\obj\Debug\PForecast.exe
+C:\Documents and Settings\marsel\Мои документы\Visual Studio 2008\Projects\PForecast\PForecast\obj\Debug\PForecast.pdb
+C:\Documents and Settings\marsel\Мои документы\Visual Studio 2008\Projects\PForecast\PForecast\bin\Debug\PForecast.exe.config
+C:\Documents and Settings\marsel\Мои документы\Visual Studio 2008\Projects\PForecast\PForecast\obj\Debug\PForecast.MainFrame.resources
+C:\Documents and Settings\marsel\Мои документы\Visual Studio 2008\Projects\PForecast\PForecast\Ouput\PForecast.exe.config
+C:\Documents and Settings\marsel\Мои документы\Visual Studio 2008\Projects\PForecast\Ouput\PForecast.exe.config
+C:\Documents and Settings\marsel\Мои документы\Visual Studio 2008\Projects\PForecast\Ouput\PForecast.exe
+C:\Documents and Settings\marsel\Мои документы\Visual Studio 2008\Projects\PForecast\Ouput\PForecast.pdb
+C:\Documents and Settings\marsel\Мои документы\Visual Studio 2008\Projects\PForecast\PForecast\obj\Debug\PForecast.DocumentViewer.resources
+C:\Documents and Settings\marsel\Мои документы\Visual Studio 2008\Projects\PForecast\Output\PForecast.exe.config
+C:\Documents and Settings\marsel\Мои документы\Visual Studio 2008\Projects\PForecast\Output\PForecast.exe
+C:\Documents and Settings\marsel\Мои документы\Visual Studio 2008\Projects\PForecast\Output\PForecast.pdb
+C:\Documents and Settings\marsel\Мои документы\Visual Studio 2008\Projects\PForecast\Output\App.config
+F:\PForecast\Output\PForecast.exe.config
+F:\PForecast\PForecast\obj\Debug\PForecast.exe
+F:\PForecast\PForecast\obj\Debug\PForecast.pdb
+F:\PForecast\Output\App.config
+F:\PForecast\Output\PForecast.exe
+F:\PForecast\Output\PForecast.pdb
+F:\PForecast\PForecast\obj\Debug\ResolveAssemblyReference.cache
+F:\PForecast\PForecast\obj\Debug\PForecast.ChooseParentPlan.resources
+F:\PForecast\PForecast\obj\Debug\PForecast.CreatePlan.resources
+F:\PForecast\PForecast\obj\Debug\PForecast.ChooseParent.resources
+F:\PForecast\PForecast\obj\Debug\PForecast.CreateTender.resources
+F:\PForecast\PForecast\obj\Debug\PForecast.FormPlan.resources
+F:\PForecast\PForecast\obj\Debug\PForecast.FormTender.resources
+F:\PForecast\PForecast\obj\Debug\PForecast.MainFrame.resources
+F:\PForecast\PForecast\obj\Debug\PForecast.Properties.Resources.resources
+F:\PForecast\PForecast\obj\Debug\PForecast.DocumentViewer.resources
+F:\PForecast\PForecast\obj\Debug\PForecast.csproj.GenerateResource.Cache
+C:\Documents and Settings\marsel\Мои документы\Visual Studio 2008\Projects\PForecast\PForecast\obj\Debug\PForecast.ChooseParent.resources
+C:\Documents and Settings\marsel\Мои документы\Visual Studio 2008\Projects\PForecast\PForecast\obj\Debug\PForecast.ChooseParentInputDoc.resources
+C:\Documents and Settings\marsel\Мои документы\Visual Studio 2008\Projects\PForecast\PForecast\obj\Debug\PForecast.CreateInputDoc.resources
+C:\Documents and Settings\marsel\Мои документы\Visual Studio 2008\Projects\PForecast\PForecast\obj\Debug\PForecast.CreateTender.resources
+C:\Documents and Settings\marsel\Мои документы\Visual Studio 2008\Projects\PForecast\PForecast\obj\Debug\PForecast.ErrorMsgBox.resources
+C:\Documents and Settings\marsel\Мои документы\Visual Studio 2010\Projects\PForecast\Output\PForecast.exe.config
+C:\Documents and Settings\marsel\Мои документы\Visual Studio 2010\Projects\PForecast\PForecast\obj\Debug\PForecast.exe
+C:\Documents and Settings\marsel\Мои документы\Visual Studio 2010\Projects\PForecast\PForecast\obj\Debug\PForecast.pdb
+C:\Documents and Settings\marsel\Мои документы\Visual Studio 2010\Projects\PForecast\Output\App.config
+C:\Documents and Settings\marsel\Мои документы\Visual Studio 2010\Projects\PForecast\Output\PForecast.exe
+C:\Documents and Settings\marsel\Мои документы\Visual Studio 2010\Projects\PForecast\Output\PForecast.pdb
+C:\Documents and Settings\marsel\Мои документы\Visual Studio 2010\Projects\PForecast\PForecast\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\marsel\Мои документы\Visual Studio 2010\Projects\PForecast\PForecast\obj\Debug\PForecast.ChooseParent.resources
+C:\Documents and Settings\marsel\Мои документы\Visual Studio 2010\Projects\PForecast\PForecast\obj\Debug\PForecast.ChooseParentInputDoc.resources
+C:\Documents and Settings\marsel\Мои документы\Visual Studio 2010\Projects\PForecast\PForecast\obj\Debug\PForecast.CreateInputDoc.resources
+C:\Documents and Settings\marsel\Мои документы\Visual Studio 2010\Projects\PForecast\PForecast\obj\Debug\PForecast.CreateTender.resources
+C:\Documents and Settings\marsel\Мои документы\Visual Studio 2010\Projects\PForecast\PForecast\obj\Debug\PForecast.ErrorMsgBox.resources
+C:\Documents and Settings\marsel\Мои документы\Visual Studio 2010\Projects\PForecast\PForecast\obj\Debug\PForecast.MainFrame.resources
+C:\Documents and Settings\marsel\Мои документы\Visual Studio 2010\Projects\PForecast\PForecast\obj\Debug\PForecast.Properties.Resources.resources
+C:\Documents and Settings\marsel\Мои документы\Visual Studio 2010\Projects\PForecast\PForecast\obj\Debug\PForecast.DocumentViewer.resources
+C:\Documents and Settings\marsel\Мои документы\Visual Studio 2010\Projects\PForecast\PForecast\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\marsel\Мои документы\Visual Studio 2010\Projects\PForecast\PForecast\obj\Debug\GenerateResource-ResGen.write.1.tlog

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PForecast", "PForecast\PForecast.csproj", "{29C87BC6-3E47-4AE9-9CD4-A7AFD56E2456}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Documents", "Documents\Documents.csproj", "{CD7C2FF6-B468-44F7-BF09-05EFBA7C8ECD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29C87BC6-3E47-4AE9-9CD4-A7AFD56E2456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29C87BC6-3E47-4AE9-9CD4-A7AFD56E2456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29C87BC6-3E47-4AE9-9CD4-A7AFD56E2456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29C87BC6-3E47-4AE9-9CD4-A7AFD56E2456}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD7C2FF6-B468-44F7-BF09-05EFBA7C8ECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD7C2FF6-B468-44F7-BF09-05EFBA7C8ECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD7C2FF6-B468-44F7-BF09-05EFBA7C8ECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD7C2FF6-B468-44F7-BF09-05EFBA7C8ECD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

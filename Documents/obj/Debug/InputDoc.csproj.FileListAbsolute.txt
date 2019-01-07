@@ -1,0 +1,5 @@
+C:\Documents and Settings\marsel\Мои документы\Visual Studio 2008\Projects\PForecast\InputDoc\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\marsel\Мои документы\Visual Studio 2008\Projects\PForecast\InputDoc\obj\Debug\InputDoc.ChooseParentInputDoc.resources
+C:\Documents and Settings\marsel\Мои документы\Visual Studio 2008\Projects\PForecast\InputDoc\obj\Debug\InputDoc.CreateInputDoc.resources
+C:\Documents and Settings\marsel\Мои документы\Visual Studio 2008\Projects\PForecast\InputDoc\obj\Debug\InputDoc.FormInputDoc.resources
+C:\Documents and Settings\marsel\Мои документы\Visual Studio 2008\Projects\PForecast\InputDoc\obj\Debug\InputDoc.csproj.GenerateResource.Cache

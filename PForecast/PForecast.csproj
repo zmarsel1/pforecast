@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{29C87BC6-3E47-4AE9-9CD4-A7AFD56E2456}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PForecast</RootNamespace>
+    <AssemblyName>PForecast</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\Output\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\Output\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="forms\ChooseParentForecastDoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\ChooseParentForecastDoc.Designer.cs">
+      <DependentUpon>ChooseParentForecastDoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\ChooseParentInputDoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\ChooseParentInputDoc.Designer.cs">
+      <DependentUpon>ChooseParentInputDoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\CreateInputDoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\CreateInputDoc.Designer.cs">
+      <DependentUpon>CreateInputDoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\CreateTender.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\CreateTender.Designer.cs">
+      <DependentUpon>CreateTender.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\ErrorMsgBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\ErrorMsgBox.Designer.cs">
+      <DependentUpon>ErrorMsgBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wrapper\DocumentSelector.cs" />
+    <Compile Include="ForecastCreator\ForecastCreator.cs" />
+    <Compile Include="wrapper\ForecastDocumentFactory.cs" />
+    <Compile Include="forms\MainFrame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\MainFrame.Designer.cs">
+      <DependentUpon>MainFrame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="forms\ChooseParentForecastDoc.resx">
+      <DependentUpon>ChooseParentForecastDoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\ChooseParentInputDoc.resx">
+      <DependentUpon>ChooseParentInputDoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\CreateInputDoc.resx">
+      <DependentUpon>CreateInputDoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\CreateTender.resx">
+      <DependentUpon>CreateTender.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\ErrorMsgBox.resx">
+      <DependentUpon>ErrorMsgBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\MainFrame.resx">
+      <DependentUpon>MainFrame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\DocumentViewer.resx">
+      <DependentUpon>DocumentViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="App.config">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="forms\DocumentViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\DocumentViewer.Designer.cs">
+      <DependentUpon>DocumentViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wrapper\InputDocFactory.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Documents\Documents.csproj">
+      <Project>{CD7C2FF6-B468-44F7-BF09-05EFBA7C8ECD}</Project>
+      <Name>Documents</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
